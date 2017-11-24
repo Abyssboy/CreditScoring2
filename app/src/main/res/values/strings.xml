@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Credit Scoring</string>
+    <string name="title_activity_collateral">Collateral</string>
+
+    <string-array name="AStatus">
+        <item>โสด</item>
+        <item>เเต่งงาน</item>
+        <item>หย่า/หม่าย</item>
+    </string-array>
+
+
+    <string-array name="AHisdebt">
+        <item>ตรงเวลา</item>
+        <item>ไม่ตรงเวลา เเต่ครบจำนวน</item>
+        <item>ไม่ตรรงเวลา ไม่ครบจำนวน</item>
+    </string-array>
+
+    <string-array name="AJob">
+        <item>ข้าราชการ</item>
+        <item>รับจ้าง</item>
+        <item>เจ้าของกิจการขนาดใหญ่</item>
+        <item>เจ้าของกิจการขนาดกลาง</item>
+        <item>เจ้าของกิจการขนาดเล็ก</item>
+        <item>งานฝีมือ</item>
+        <item>อิสระ</item>
+        <item>ว่างงาน</item>
+        <item>อื่นๆ</item>
+    </string-array>
+
+    <string-array name="ASick">
+        <item>ไม่มี</item>
+        <item>มีเเต่ไม่ร้ายเเรง</item>
+        <item>มี ร้ายเเรง</item>
+    </string-array>
+
+    <string-array name="ADebt">
+        <item>มี</item>
+        <item>ไม่มี</item>
+    </string-array>
+
+    <string-array name="AIncome">
+        <item>น้อยกว่า10,000</item>
+        <item>น้อยกว่า20,000</item>
+        <item>น้อยกว่า30,000</item>
+        <item>น้อยกว่า40,000</item>
+        <item>น้อยกว่า50,000</item>
+        <item>มากกว่า50,000</item>
+    </string-array>
+
+    <string-array name="ACapi1">
+        <item>มี</item>
+        <item>สมรส</item>
+        <item>ไม่มี</item>
+
+    </string-array>
+
+    <string-array name="ACapi2">
+        <item>มี</item>
+        <item>ไม่มี</item>
+    </string-array>
+
+    <string-array name="AOwner">
+        <item>มีทั้ง2เเบบ</item>
+        <item>สินทรัพย์ถาวรที่มีตัวตน</item>
+        <item>สินทรัพย์ถาวรทีไม่่มีตัวตน</item>
+        <item>ไม่มี</item>
+
+    </string-array>
+
+    <string-array name="Acon">
+        <item>ดี</item>
+        <item>ปานกลาง</item>
+        <item>เเย่</item>
+
+
+    </string-array>
+
+
+</resources>
